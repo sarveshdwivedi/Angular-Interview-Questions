@@ -1,7 +1,7 @@
 # Angular-Interview-Questions
 Collection of Angular interview question
 
-#JavaScript
+# JavaScript
 1- Explain Closure and Hoisting Function In JavaScript
 2- Variables type In JavaScript
 3- TypeOf function In JavaScript
@@ -10,7 +10,7 @@ Collection of Angular interview question
 6- Difference between == and === operators
 7- What is class and prototype inheritance.
 
-#Angular
+# Angular
 7- What is  observable 
 8- What is subject and type of subjects like BehaviorSubject, ReplaySubject, AsyncSubject
 9- RXJS operators
